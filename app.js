@@ -24,7 +24,7 @@ function goNuts(e) {
 buttons.addEventListener('mouseenter' , goNuts);
 normalBtn.addEventListener('click', () => {
 
-    window.location.href = 'index.html';
+    window.location.href = 'birthday.html';
 });
 
 

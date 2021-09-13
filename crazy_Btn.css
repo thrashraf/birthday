@@ -1,0 +1,35 @@
+body{
+    padding: 30px;
+    background-color: #FFE194;
+    margin-top: 50%;
+
+}
+
+article {
+
+    background-color: #FFB319;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+article p {
+    color: #fff;
+    font-size: 25px;
+}
+
+.btn-crazy{
+    position: absolute;
+    left: 55%;
+    width: 150px;
+    transition: 0.5s ease all;
+}
+
+.normal-btn {
+    width: 150px;
+}
+
+.div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}

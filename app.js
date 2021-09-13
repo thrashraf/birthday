@@ -20,6 +20,7 @@ function goNuts(e) {
 
 }
 
+
 //addEventListener
 buttons.addEventListener('click' , goNuts);
 normalBtn.addEventListener('click', () => {
